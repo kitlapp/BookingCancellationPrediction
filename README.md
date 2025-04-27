@@ -1,11 +1,5 @@
 # EXPLORATORY MACHINE LEARNING FOR BOOKING CANCELLATION PREDICTION
-This project uses machine learning to predict hotel booking cancellations. It leverages a dataset with various features related to hotel bookings, such as lead time, market segment, and number of nights. The goal is to identify key factors that contribute to cancellations and build predictive models that can be used by hotel owners to reduce cancellations.
-
-Two machine learning models are used: a logistic regression model as the baseline, and a random forest model for more advanced prediction. The models focus on identifying the most important features that affect cancellations, and the results from both models are analyzed for actionable insights.
-
-An in-depth report is prepared for stakeholders, summarizing the findings from the machine learning models and explaining the factors that lead to booking cancellations. This report helps hotel owners understand the critical factors and provides recommendations for improving their booking processes.
-
-By combining machine learning and domain knowledge, this project demonstrates how predictive analytics can be applied to improve decision-making in the hospitality industry.
+This project applies machine learning to predict hotel booking cancellations, using logistic regression as a baseline model and random forest for enhanced prediction performance. Key features influencing cancellations are identified, and actionable insights are summarized in a stakeholder-focused report. The end-to-end process includes data extraction, cleaning, model training, evaluation, and reporting, reflecting an early structure of MLOps workflows. A custom log file monitors the execution of automation scripts, ensuring traceability and operational control. By combining machine learning techniques, domain expertise, and process automation, this project demonstrates how predictive analytics and structured operational practices can support better decision-making in the hospitality industry.
 
 # DATA COLLECTION
 https://www.kaggle.com/datasets/mojtaba142/hotel-booking
