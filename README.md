@@ -24,6 +24,9 @@ https://www.kaggle.com/datasets/mojtaba142/hotel-booking
 11) dictionaries.py – Helps with manipulating the ‘country’ column.
 12) results.py – Includes custom functions for model evaluation and interpretation.
 13) run_all.txt – A log file that monitors the successful execution of run_all.py. I added it just to show its format.
+14) logistic_regression.ipynb - The jupyter file which includes the baseline model
+15) random_forest.ipynb - The jupyter file which includes the advanced ML model
+16) This file - readme.txt
 
 # HOW TO SET UP THE ENVIRONMENT
 Please note that my scripts are designed to retrieve data from my local PostgreSQL database, so they may not work out-of-the-box on your machine. However, if you'd like to discuss alternative setups or solutions, feel free to connect with me on [Linkedin](https://www.linkedin.com/in/kimon-ioannis-lappas).
