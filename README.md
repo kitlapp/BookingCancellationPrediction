@@ -1,4 +1,4 @@
-# EXPLORATORY MACHINE LEARNING FOR BOOKING CANCELLATION PREDICTION: REPORT TO STAKEHOLDERS
+# EXPLORATORY MACHINE LEARNING FOR BOOKING CANCELLATION PREDICTION
 This project uses machine learning to predict hotel booking cancellations. It leverages a dataset with various features related to hotel bookings, such as lead time, market segment, and number of nights. The goal is to identify key factors that contribute to cancellations and build predictive models that can be used by hotel owners to reduce cancellations.
 
 Two machine learning models are used: a logistic regression model as the baseline, and a random forest model for more advanced prediction. The models focus on identifying the most important features that affect cancellations, and the results from both models are analyzed for actionable insights.
