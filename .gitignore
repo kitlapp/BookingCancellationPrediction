@@ -6,3 +6,4 @@ Report_to_Stakeholders.docx
 __pycache__/
 hotel_kpis.csv
 hotel_market_segments.csv
+.env
