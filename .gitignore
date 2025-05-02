@@ -7,3 +7,6 @@ __pycache__/
 hotel_kpis.csv
 hotel_market_segments.csv
 .env
+.ipynb_checkpoints/
+~$c_ML_for_Cancel_Prediction.docx
+
